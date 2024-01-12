@@ -1,4 +1,4 @@
-# Customer Segmentation Data Exploration
+# Data Exploration With SQL
 
 ## Introduction
 This project focuses on customer segmentation using Microsoft SQL Server, aiming to gain valuable insights into customer behavior and preferences. The analysis involves leveraging two datasets, products_online_sales_updated$ and product_category$, to categorize customers based on their interactions with various product categories in different countries.
